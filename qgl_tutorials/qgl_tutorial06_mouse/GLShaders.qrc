@@ -1,0 +1,9 @@
+<RCC>
+    <qresource lang="GLSL" prefix="/">
+        <file>res/texture_shader.frag</file>
+        <file>res/texture_shader.vert</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>res/uvtemplate.bmp</file>
+    </qresource>
+</RCC>

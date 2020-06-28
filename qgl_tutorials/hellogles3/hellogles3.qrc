@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/qtlogo.png</file>
+        <file>res/qt_logo_no_layout_def.vert</file>
+        <file>res/qt_logo.frag</file>
+        <file>res/qt_logo_layout_def.vert</file>
+    </qresource>
+</RCC>

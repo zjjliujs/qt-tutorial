@@ -1,0 +1,9 @@
+<RCC>
+    <qresource lang="GLSL" prefix="/"/>
+    <qresource prefix="/">
+        <file>res/triangle.frag</file>
+        <file>res/triangle.vert</file>
+        <file>res/triangle.fsh</file>
+        <file>res/triangle.vsh</file>
+    </qresource>
+</RCC>

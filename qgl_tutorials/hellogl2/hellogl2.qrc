@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/hellogl2.vsh</file>
+        <file>res/hellogl2.fsh</file>
+    </qresource>
+</RCC>
